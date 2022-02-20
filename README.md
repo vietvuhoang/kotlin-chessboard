@@ -26,7 +26,7 @@ B: KE8, QH1, RA8, RH8, ND1, BC8, PA7, PB7, PC7, PD7, PE5, PG7, PH7
 
 Base on Position of Pieces, calculate available movement of each one and collect the result to a Result Set
 
-### Ouput
+### Output
 
 Generate the Result Set of movenent to the output, may be Console, Text, Json, XML...
 
